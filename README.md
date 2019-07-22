@@ -1,5 +1,5 @@
 # Expense-Application
-Aplicación basada en la admnistración personal de gastos.
+Aplicación basada en la administración personal de gastos.
 
 ## Clonar repositorio
 Abrir terminal, ir al fichero en el que clonará el repo; y pegar el siguiente comando en nuestra terminal.
