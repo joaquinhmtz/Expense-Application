@@ -6,7 +6,7 @@ Abrir terminal, ir al fichero en el que clonará el repo; y pegar el siguiente c
 
 ```sh
 cd /path
-git clone https://github.com/joaquinhmtz/Basic_Structure_AngularJS.git
+git clone https://github.com/joaquinhmtz/Expense-Application.git
 ```
 
 ## Instalación de dependencias
